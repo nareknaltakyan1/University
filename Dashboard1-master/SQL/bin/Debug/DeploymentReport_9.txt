@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[course] (Table)
+       [dbo].[student_subject] (Table)
+       [dbo].[students] (Table)
+       [dbo].[subjects] (Table)
+       [dbo].[teacher_subject] (Table)
+       [dbo].[teachers] (Table)
+       [dbo].[users] (Table)
+       Foreign Key: unnamed constraint on [dbo].[student_subject] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[student_subject] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[students] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[teacher_subject] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[teacher_subject] (Foreign Key)
+
+** Supporting actions

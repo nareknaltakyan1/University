@@ -1,0 +1,12 @@
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\SQL\bin\Debug\SQL.dacpac
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\SQL\bin\Debug\SQL.dll
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\SQL\bin\Debug\SQL.pdb
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\SQL\obj\Debug\SQL.dll
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\SQL\obj\Debug\SQL.pdb
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\SQL\obj\Debug\SQL.sqlprojAssemblyReference.cache
+C:\Users\narek\Desktop\OneDrive\Desktop\University\Dashboard1-master\SQL\bin\Debug\SQL.dacpac
+C:\Users\narek\Desktop\OneDrive\Desktop\University\Dashboard1-master\SQL\bin\Debug\SQL.dll
+C:\Users\narek\Desktop\OneDrive\Desktop\University\Dashboard1-master\SQL\bin\Debug\SQL.pdb
+C:\Users\narek\Desktop\OneDrive\Desktop\University\Dashboard1-master\SQL\obj\Debug\SQL.sqlprojAssemblyReference.cache
+C:\Users\narek\Desktop\OneDrive\Desktop\University\Dashboard1-master\SQL\obj\Debug\SQL.dll
+C:\Users\narek\Desktop\OneDrive\Desktop\University\Dashboard1-master\SQL\obj\Debug\SQL.pdb

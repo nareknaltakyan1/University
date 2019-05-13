@@ -1,0 +1,6 @@
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\ConnectionLibrary\bin\Debug\ConnectionLibrary.dll
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\ConnectionLibrary\bin\Debug\ConnectionLibrary.pdb
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\ConnectionLibrary\obj\Debug\ConnectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\ConnectionLibrary\obj\Debug\ConnectionLibrary.dll
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\ConnectionLibrary\obj\Debug\ConnectionLibrary.pdb
+C:\Users\narek\Desktop\OneDrive\Desktop\Dashboard1-master\ConnectionLibrary\obj\Debug\ConnectionLibrary.csprojAssemblyReference.cache

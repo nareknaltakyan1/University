@@ -1,0 +1,43 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[course]
+       [dbo].[student_subject]
+       [dbo].[students]
+       [dbo].[subjects]
+       [dbo].[teacher_subject]
+       [dbo].[teachers]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[teacher_subject].[Subject_id] on table [dbo].[teacher_subject] must be added, but the column has no
+         default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this
+         issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of
+         smart-defaults as a deployment option.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[students] (Foreign Key)
+       unnamed constraint on [dbo].[student_subject] (Foreign Key)
+       unnamed constraint on [dbo].[student_subject] (Foreign Key)
+       unnamed constraint on [dbo].[teacher_subject] (Foreign Key)
+     Table rebuild
+       [dbo].[course] (Table)
+       [dbo].[student_subject] (Table)
+       [dbo].[students] (Table)
+       [dbo].[subjects] (Table)
+       [dbo].[teacher_subject] (Table)
+       [dbo].[teachers] (Table)
+     Create
+       Foreign Key: unnamed constraint on [dbo].[teacher_subject] (Foreign Key)
+
+** Supporting actions
+     Create
+       Foreign Key: unnamed constraint on [dbo].[students] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[student_subject] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[student_subject] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[teacher_subject] (Foreign Key)
+
+The column [dbo].[teacher_subject].[Subject_id] on table [dbo].[teacher_subject] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+
